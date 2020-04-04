@@ -1,6 +1,10 @@
 
 ## 0.4: new note
 
+### Diagram:  
+
+![](https://i.imgur.com/sLO9KZN.png)  
+
 #### 1. User clicks submit button and the POST request in form of x-www-form-urlencoded is sent from user's browser to server to the address https://fullstack-exampleapp.herokuapp.com/new_note
 
 Request header:  
